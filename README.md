@@ -5,6 +5,7 @@
 # Use pymon.exe
 
     cmd :- $pip install pyinstaller
+    
     cmd :- $pyinstaller -F pymon.py
     
 # Repo
