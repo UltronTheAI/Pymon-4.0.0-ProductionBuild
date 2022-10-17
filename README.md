@@ -1,20 +1,10 @@
-# Pymon-4.0.0-ProductionBuild
-
-    cmd :- $python pymon.py run app.py
-    
-# Use pymon.exe
-
-    cmd :- $pip install pyinstaller
-    
-    cmd :- $pyinstaller -F pymon.py
-    
-# Repo
-
-    repo :- https://github.com/UltronTheAI/Pymon-4.0.0
-    
 # Pymon-4.0.0
 
     Increase productivity and save time in PYTHON with PYMON
+    
+# Pymon-4.0.0-ProductionBuild
+
+    cmd :- $python pymon.py run app.py
     
 # Pymon is open source
 
@@ -66,3 +56,13 @@
                                       first command.
         
         ( 5 ) pymon stopall => this command help you to stop all running file.
+    
+# Use pymon.exe
+
+    cmd :- $pip install pyinstaller
+    
+    cmd :- $pyinstaller -F pymon.py
+    
+# Repo
+
+    repo :- https://github.com/UltronTheAI/Pymon-4.0.0
